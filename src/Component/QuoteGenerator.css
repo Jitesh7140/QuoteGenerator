@@ -1,0 +1,28 @@
+body{
+    /* font-family: "Libre Baskerville", serif; */
+  font-weight: 400;
+  font-style: normal;
+     
+}
+
+.Quotes{
+    /* width: 90%;
+    height: 70%; */
+    font-size: larger;
+    padding: 35px;
+}
+@media screen and (max-width: 600px){
+    .Quotes{
+        padding: 15px;
+    }
+    
+}
+
+.hr1{
+width: 95%;
+}
+
+.btnFetch2{
+    width: 30px;
+    height: 30px;
+}
